@@ -1,0 +1,7 @@
+C'est quoi l'architecture reseau
+================================
+
+L'architecture réseau fait référence à la structure globale d'un réseau informatique, incluant la 
+configuration physique et logique, les protocoles utilisés, la topologie du réseau et les méthodes de 
+gestion et de mise en œuvre. Elle détermine comment les différents composants du réseau interagissent 
+entre eux pour fournir une plateforme de communication efficace et sécurisée
